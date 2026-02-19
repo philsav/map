@@ -1,0 +1,147 @@
+{
+    "settings": {
+        "title": "My Map",
+        "hoverTooltip": true,
+        "deeplinking": true,
+        "sidebar": true,
+        "rightSidebar": false,
+        "toggleSidebar": true,
+        "thumbnails": false,
+        "sidebarClosed": false,
+        "maxZoom": 4,
+        "mapWidth": 1000,
+        "mapHeight": 800,
+        "filters": false,
+        "layer": "main",
+        "primaryColor": "#1476FF",
+        "fullscreen": "bottom-left",
+        "layerSwitcher": "top-right",
+        "resetButton": "bottom-right",
+        "zoomButtons": "bottom-right",
+        "zoom": true,
+        "mouseWheel": true
+    },
+    "layers": [
+        {
+            "id": "main",
+            "name": "Main Floor",
+            "file": "your-map.svg"
+        }
+    ],
+    "locations": [
+      {
+        "coord": [0.7202, 0.3016],
+        "zoom": 28.0553,
+        "title": "Stair Case",
+        "type": "hidden",
+        "id": "Lot014",
+        "layer": "layer1"
+      },
+      {
+        "type": "hidden",
+        "coord": [0.6334, 0.4119],
+        "id": "lot013",
+        "title": "Media Room",
+        "layer": "layer1",
+        "zoom": 41.0544
+      },
+      {
+        "zoom": 4.3495,
+        "title": "First Aid",
+        "layer": "layer1",
+        "id": "lot012",
+        "coord": [0.5937, 0.3592],
+        "type": "hidden"
+      },
+      {
+        "title": "Mens Change Room",
+        "id": "lot011",
+        "zoom": 20.188,
+        "layer": "layer1",
+        "type": "hidden",
+        "coord": [0.4627, 0.4816],
+        "about": "Washroom"
+      },
+      {
+        "title": "Womens Change Room",
+        "about": "Washroom",
+        "layer": "layer1",
+        "zoom": 20.1544,
+        "coord": [0.5201, 0.5257],
+        "id": "lot010",
+        "type": "hidden"
+      },
+      {
+        "id": "lot009",
+        "type": "hidden",
+        "layer": "layer1",
+        "zoom": 22.3045,
+        "title": "Teaching Studio",
+        "coord": [0.8707, 0.4136]
+      },
+      {
+        "type": "hidden",
+        "zoom": 23.9199,
+        "coord": [0.7265, 0.476],
+        "title": "Dive Pool",
+        "id": "lot008",
+        "layer": "layer1"
+      },
+      {
+        "type": "hidden",
+        "zoom": 15.8203,
+        "coord": [0.5989, 0.6171],
+        "id": "lot007",
+        "layer": "layer1",
+        "title": "Training & Warm-up Pool"
+      },
+      {
+        "layer": "layer1",
+        "coord": [0.4622, 0.7505],
+        "type": "hidden",
+        "title": "Competition Pool",
+        "id": "lot006",
+        "zoom": 21.9755
+      },
+      {
+        "coord": [0.2834, 0.5171],
+        "type": "hidden",
+        "layer": "layer1",
+        "title": "Elevator",
+        "id": "lot005",
+        "zoom": 29.6903
+      },
+      {
+        "zoom": 29.7501,
+        "layer": "layer1",
+        "id": "lot004",
+        "type": "hidden",
+        "title": "Informatiomn",
+        "coord": [0.3885, 0.5727]
+      },
+      {
+        "id": "lot003",
+        "title": "Lot003",
+        "zoom": 2.5888,
+        "layer": "layer1",
+        "coord": [0.2957, 0.6227],
+        "type": "hidden"
+      },
+      {
+        "zoom": 5.4283,
+        "coord": [0.2171, 0.4511],
+        "type": "hidden",
+        "id": "lot002",
+        "title": "Fitness Centre",
+        "layer": "layer1"
+      },
+      {
+        "layer": "layer1",
+        "coord": [0.3631, 0.3457],
+        "zoom": 5.4299,
+        "title": "Field House",
+        "type": "hidden",
+        "id": "lot001"
+      }
+    ],
+

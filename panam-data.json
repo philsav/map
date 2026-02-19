@@ -1,0 +1,177 @@
+{
+  "breakpoints": [
+    {
+      "below": 9000,
+      "container": 600,
+      "name": "all-screens"
+    },
+    {
+      "name": "mobile",
+      "portrait": true,
+      "below": 480
+    }
+  ],
+  "samples": [
+    {
+      "title": "Default",
+      "id": "def",
+      "group": []
+    }
+  ],
+  "settings": {
+    "zoom": true,
+    "resetButton": "bottom-right",
+    "zoomButtons": "bottom-right",
+    "maxZoom": 2,
+    "fullscreen": "bottom-left",
+    "layerSwitcher": "top-right",
+    "mapHeight": 3917,
+    "layer": "layer1",
+    "mapWidth": 5769,
+    "hoverTooltip": true,
+    "sidebar": true,
+    "toggleSidebar": true,
+    "ordered": true,
+    "orderBy": "title"
+  },
+   "layers":[
+       {
+          "id":"layer1",
+          "name":"First Floor",
+          "file":"assets/maps/building-first.svg"
+       },
+        {
+          "id": "layer2",
+          "name": "Second Floor",
+          "file": "assets/maps/building-second.svg"
+        }
+
+    ],
+  "locations": [
+    {
+      "type": "hidden",
+      "zoom": 28.0553,
+      "title": "Stair Case",
+      "coord": [0.7202, 0.3016],
+      "layer": "layer1",
+      "id": "Lot014"
+    },
+    {
+      "zoom": 41.0544,
+      "id": "lot013",
+      "title": "Media Room",
+      "layer": "layer1",
+      "type": "hidden",
+      "coord": [0.6334, 0.4119]
+    },
+    {
+      "layer": "layer1",
+      "zoom": 4.3495,
+      "coord": [0.5937, 0.3592],
+      "id": "lot012",
+      "type": "hidden",
+      "about": "Sports Injusry Clinic",
+      "title": "First Aid"
+    },
+    {
+      "type": "hidden",
+      "coord": [0.4627, 0.4816],
+      "layer": "layer1",
+      "zoom": 20.188,
+      "about": "Washroom",
+      "title": "Mens Change Room",
+      "id": "lot011"
+    },
+    {
+      "layer": "layer1",
+      "id": "lot010",
+      "title": "Womens Change Room",
+      "about": "Washroom",
+      "coord": [0.5201, 0.5257],
+      "zoom": 20.1544,
+      "type": "hidden"
+    },
+    {
+      "id": "lot009",
+      "zoom": 22.3045,
+      "coord": [0.8707, 0.4136],
+      "title": "Teaching Studio",
+      "layer": "layer1",
+      "type": "hidden"
+    },
+    {
+      "id": "lot008",
+      "zoom": 23.9199,
+      "type": "hidden",
+      "layer": "layer1",
+      "title": "Dive Pool",
+      "coord": [0.7265, 0.476]
+    },
+    {
+      "title": "Training & Warm-up Pool",
+      "coord": [0.5989, 0.6171],
+      "layer": "layer1",
+      "id": "lot007",
+      "type": "hidden",
+      "zoom": 15.8203
+    },
+    {
+      "coord": [0.4622, 0.7505],
+      "id": "lot006",
+      "layer": "layer1",
+      "type": "hidden",
+      "zoom": 21.9755,
+      "title": "Competition Pool"
+    },
+    {
+      "type": "hidden",
+      "coord": [0.2834, 0.5171],
+      "title": "Elevator",
+      "zoom": 29.6903,
+      "layer": "layer1",
+      "id": "lot005"
+    },
+    {
+      "layer": "layer1",
+      "type": "hidden",
+      "id": "lot004",
+      "coord": [0.3885, 0.5727],
+      "title": "Information",
+      "about": "Security",
+      "zoom": 29.7501
+    },
+    {
+      "type": "hidden",
+      "id": "lot003",
+      "zoom": 2.5888,
+      "title": "Food Court",
+      "layer": "layer1",
+      "coord": [0.2957, 0.6227]
+    },
+    {
+      "zoom": 5.4283,
+      "title": "Fitness Centre",
+      "coord": [0.2171, 0.4511],
+      "type": "hidden",
+      "id": "lot002",
+      "layer": "layer1"
+    },
+    {
+      "zoom": 5.4299,
+      "layer": "layer1",
+      "id": "lot001",
+      "coord": [0.3631, 0.3457],
+      "title": "Field House",
+      "type": "hidden"
+    },
+     {
+       "zoom": 5.4299,
+       "layer": "layer2",
+       "id": "lot201",
+       "coord": [0.3631, 0.3457],
+       "title": "Second Floor",
+       "type": "hidden"
+     }
+  ]
+
+}
