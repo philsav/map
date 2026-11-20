@@ -1,177 +1,45 @@
 {
   "breakpoints": [
-    {
-      "below": 9000,
-      "container": 600,
-      "name": "all-screens"
-    },
-    {
-      "name": "mobile",
-      "portrait": true,
-      "below": 480
-    }
+    {"below": 9000, "container": 600, "name": "all-screens"},
+    {"name": "mobile", "portrait": true, "below": 480}
   ],
-  "samples": [
-    {
-      "title": "Default",
-      "id": "def",
-      "group": []
-    }
-  ],
+  "samples": [{"title": "Default", "id": "def", "group": []}],
   "settings": {
-    "zoom": true,
-    "resetButton": "bottom-right",
-    "zoomButtons": "bottom-right",
-    "maxZoom": 2,
-    "fullscreen": "bottom-left",
-    "layerSwitcher": "top-right",
-    "mapHeight": 3917,
-    "layer": "layer1",
-    "mapWidth": 5769,
-    "hoverTooltip": true,
-    "sidebar": true,
-    "toggleSidebar": true,
-    "ordered": true,
-    "orderBy": "title"
+    "zoom": true, "resetButton": "bottom-right", "zoomButtons": "bottom-right", "maxZoom": 2,
+    "fullscreen": "bottom-left", "layerSwitcher": "top-right", "mapHeight": 3917, "layer": "layer1",
+    "mapWidth": 5769, "hoverTooltip": true, "sidebar": true, "toggleSidebar": true,
+    "ordered": true, "orderBy": "title", "wayfinding": true, "wayfindingControls": "top-left", "filterByLayer": true
   },
-   "layers":[
-       {
-          "id":"layer1",
-          "name":"First Floor",
-          "file":"assets/maps/building-first.svg"
-       },
-        {
-          "id": "layer2",
-          "name": "Second Floor",
-          "file": "assets/maps/building-second.svg"
-        }
-
-    ],
+  "layers": [
+    {"id": "layer1", "name": "First Floor", "file": "assets/maps/building-first.svg"},
+    {"id": "layer2", "name": "Second Floor", "file": "assets/maps/building-second.svg"}
+  ],
   "locations": [
-    {
-      "type": "hidden",
-      "zoom": 28.0553,
-      "title": "Stair Case",
-      "coord": [0.7202, 0.3016],
-      "layer": "layer1",
-      "id": "Lot014"
-    },
-    {
-      "zoom": 41.0544,
-      "id": "lot013",
-      "title": "Media Room",
-      "layer": "layer1",
-      "type": "hidden",
-      "coord": [0.6334, 0.4119]
-    },
-    {
-      "layer": "layer1",
-      "zoom": 4.3495,
-      "coord": [0.5937, 0.3592],
-      "id": "lot012",
-      "type": "hidden",
-      "about": "Sports Injusry Clinic",
-      "title": "First Aid"
-    },
-    {
-      "type": "hidden",
-      "coord": [0.4627, 0.4816],
-      "layer": "layer1",
-      "zoom": 20.188,
-      "about": "Washroom",
-      "title": "Mens Change Room",
-      "id": "lot011"
-    },
-    {
-      "layer": "layer1",
-      "id": "lot010",
-      "title": "Womens Change Room",
-      "about": "Washroom",
-      "coord": [0.5201, 0.5257],
-      "zoom": 20.1544,
-      "type": "hidden"
-    },
-    {
-      "id": "lot009",
-      "zoom": 22.3045,
-      "coord": [0.8707, 0.4136],
-      "title": "Teaching Studio",
-      "layer": "layer1",
-      "type": "hidden"
-    },
-    {
-      "id": "lot008",
-      "zoom": 23.9199,
-      "type": "hidden",
-      "layer": "layer1",
-      "title": "Dive Pool",
-      "coord": [0.7265, 0.476]
-    },
-    {
-      "title": "Training & Warm-up Pool",
-      "coord": [0.5989, 0.6171],
-      "layer": "layer1",
-      "id": "lot007",
-      "type": "hidden",
-      "zoom": 15.8203
-    },
-    {
-      "coord": [0.4622, 0.7505],
-      "id": "lot006",
-      "layer": "layer1",
-      "type": "hidden",
-      "zoom": 21.9755,
-      "title": "Competition Pool"
-    },
-    {
-      "type": "hidden",
-      "coord": [0.2834, 0.5171],
-      "title": "Elevator",
-      "zoom": 29.6903,
-      "layer": "layer1",
-      "id": "lot005"
-    },
-    {
-      "layer": "layer1",
-      "type": "hidden",
-      "id": "lot004",
-      "coord": [0.3885, 0.5727],
-      "title": "Information",
-      "about": "Security",
-      "zoom": 29.7501
-    },
-    {
-      "type": "hidden",
-      "id": "lot003",
-      "zoom": 2.5888,
-      "title": "Food Court",
-      "layer": "layer1",
-      "coord": [0.2957, 0.6227]
-    },
-    {
-      "zoom": 5.4283,
-      "title": "Fitness Centre",
-      "coord": [0.2171, 0.4511],
-      "type": "hidden",
-      "id": "lot002",
-      "layer": "layer1"
-    },
-    {
-      "zoom": 5.4299,
-      "layer": "layer1",
-      "id": "lot001",
-      "coord": [0.3631, 0.3457],
-      "title": "Field House",
-      "type": "hidden"
-    },
-     {
-       "zoom": 5.4299,
-       "layer": "layer2",
-       "id": "lot201",
-       "coord": [0.3631, 0.3457],
-       "title": "Second Floor",
-       "type": "hidden"
-     }
+    {"type":"hidden","zoom":28.0553,"title":"Stair Case","coord":[0.7202,0.3016],"layer":"layer1","id":"Lot014"},
+    {"zoom":41.0544,"id":"lot013","title":"Media Room","layer":"layer1","type":"hidden","coord":[0.6334,0.4119]},
+    {"layer":"layer1","zoom":4.3495,"coord":[0.5937,0.3592],"id":"lot012","type":"hidden","about":"Sports Injusry Clinic","title":"First Aid"},
+    {"type":"hidden","coord":[0.4627,0.4816],"layer":"layer1","zoom":20.188,"about":"Washroom","title":"Mens Change Room","id":"lot011"},
+    {"layer":"layer1","id":"lot010","title":"Womens Change Room","about":"Washroom","coord":[0.5201,0.5257],"zoom":20.1544,"type":"hidden"},
+    {"id":"lot009","zoom":22.3045,"coord":[0.8707,0.4136],"title":"Teaching Studio","layer":"layer1","type":"hidden"},
+    {"id":"lot008","zoom":23.9199,"type":"hidden","layer":"layer1","title":"Dive Pool","coord":[0.7265,0.476]},
+    {"title":"Training & Warm-up Pool","coord":[0.5989,0.6171],"layer":"layer1","id":"lot007","type":"hidden","zoom":15.8203},
+    {"coord":[0.4622,0.7505],"id":"lot006","layer":"layer1","type":"hidden","zoom":21.9755,"title":"Competition Pool"},
+    {"type":"hidden","coord":[0.2834,0.5171],"title":"Elevator","zoom":29.6903,"layer":"layer1","id":"lot005"},
+    {"layer":"layer1","type":"hidden","id":"lot004","coord":[0.3885,0.5727],"title":"Information","about":"Security","zoom":29.7501},
+    {"type":"hidden","id":"lot003","zoom":2.5888,"title":"Food Court","layer":"layer1","coord":[0.2957,0.6227],"connections":["lot001","lot003"]},
+    {"zoom":5.4283,"title":"Fitness Centre","coord":[0.2171,0.4511],"type":"hidden","id":"lot002","layer":"layer1","connections":["lot001","lot003"]},
+    {"zoom":5.4299,"layer":"layer1","id":"lot001","coord":[0.3631,0.3457],"title":"Field House","type":"hidden","connections":["lot002","lot003"]},
+    {"id":"lot201","title":"Fitness Studio","layer":"layer2","type":"hidden","zoom":2,"coord":[0.499913,0.319441],"about":"Second floor · Room 201","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot202","title":"Yoga Studio","layer":"layer2","type":"hidden","zoom":2,"coord":[0.67048,0.464673],"about":"Second floor · Room 202","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot203","title":"Cycle Studio","layer":"layer2","type":"hidden","zoom":2,"coord":[0.748137,0.530795],"about":"Second floor · Room 203","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot204","title":"Multi-purpose Room","layer":"layer2","type":"hidden","zoom":2,"coord":[0.329347,0.464673],"about":"Second floor · Room 204","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot205","title":"Coaching Room","layer":"layer2","type":"hidden","zoom":2,"coord":[0.214249,0.498915],"about":"Second floor · Room 205","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot206","title":"Meeting Room","layer":"layer2","type":"hidden","zoom":2,"coord":[0.287745,0.561495],"about":"Second floor · Room 206","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot207","title":"Spectator Gallery","layer":"layer2","type":"hidden","zoom":2,"coord":[0.538742,0.642967],"about":"Second floor · Room 207","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot208","title":"Administration","layer":"layer2","type":"hidden","zoom":2,"coord":[0.422257,0.676028],"about":"Second floor · Room 208","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot209","title":"Washrooms","layer":"layer2","type":"hidden","zoom":2,"coord":[0.499913,0.74215],"about":"Second floor · Room 209","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot210","title":"Elevator","layer":"layer2","type":"hidden","zoom":2,"coord":[0.645519,0.367852],"about":"Second floor · Room 210","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot211","title":"North Staircase","layer":"layer2","type":"hidden","zoom":2,"coord":[0.562316,0.438697],"about":"Second floor · Room 211","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"},
+    {"id":"lot212","title":"South Staircase","layer":"layer2","type":"hidden","zoom":2,"coord":[0.352921,0.61699],"about":"Second floor · Room 212","desc":"<p>Illustrative second-floor room in this portfolio map concept.</p>"}
   ]
-
 }
