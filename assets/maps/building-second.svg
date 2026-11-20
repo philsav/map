@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="5769px" height="3917px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g transform="matrix(0.5,0,0,0.5,0,0)"><g transform="matrix(8.333333,0,0,8.333333,7761.085,6123.19)"><g id="Other-layers" serif:id="Other layers"><path d="M0,-507.238L0.395,-507.461L13.009,-514.579L-128.47,-596.305L-115.508,-603.745L-141.045,-618.741L-179.917,-655.123L-269.956,-603.481L-296.097,-618.539L-398.629,-559.098L-372.596,-544.298L-411.429,-522.233L-358.433,-491.404L-459.154,-462.007L-642.84,-358.692L-615.662,-342.885L-796.984,-239.918L-476.943,-54.901L-527.185,-24.477L-228.647,147.885L-24.021,28.386L-49.753,13.546L400.007,-246.591L347.405,-276.958L373.13,-291.811" style="fill:rgb(222,217,195);fill-rule:nonzero;"/></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="5769" height="3917" viewBox="0 0 5769 3917">
+<title>Second floor — sports centre portfolio concept</title>
+<desc>Illustrative second-floor vector with twelve independent rooms and connected circulation. This is a portfolio concept, not a surveyed facility plan.</desc>
+<g id="floor-base"><path d="M0,-507.238L0.395,-507.461L13.009,-514.579L-128.47,-596.305L-115.508,-603.745L-141.045,-618.741L-179.917,-655.123L-269.956,-603.481L-296.097,-618.539L-398.629,-559.098L-372.596,-544.298L-411.429,-522.233L-358.433,-491.404L-459.154,-462.007L-642.84,-358.692L-615.662,-342.885L-796.984,-239.918L-476.943,-54.901L-527.185,-24.477L-228.647,147.885L-24.021,28.386L-49.753,13.546L400.007,-246.591L347.405,-276.958L373.13,-291.811Z" transform="matrix(4.1666665 0 0 4.1666665 3880.5425 3061.595)" fill="#ded9c3"/><polygon points="2884.00,724.00 5028.00,1963.50 2884.00,3203.00 740.00,1963.50" fill="#f3f1eb" stroke="#c7c2b3" stroke-width="7"/></g>
+<g id="room-walls" stroke-linejoin="round">
+<polygon points="3668,1251.25 2884,1704.5 2884,1759.5 3668,1306.25" fill="#a6a5ab"/><polygon points="2884,1704.5 2100,1251.25 2100,1306.25 2884,1759.5" fill="#b6b5bb"/>
+<polygon points="4452,1704.5 3668,2157.75 3668,2212.75 4452,1759.5" fill="#a6a5ab"/><polygon points="3668,2157.75 3284,1935.75 3284,1990.75 3668,2212.75" fill="#b6b5bb"/>
+<polygon points="4900,1963.5 4116,2416.75 4116,2471.75 4900,2018.5" fill="#a6a5ab"/><polygon points="4116,2416.75 3732,2194.75 3732,2249.75 4116,2471.75" fill="#b6b5bb"/>
+<polygon points="2484,1935.75 2100,2157.75 2100,2212.75 2484,1990.75" fill="#a6a5ab"/><polygon points="2100,2157.75 1316,1704.5 1316,1759.5 2100,2212.75" fill="#b6b5bb"/>
+<polygon points="1604,1945 1220,2167 1220,2222 1604,2000" fill="#a6a5ab"/><polygon points="1220,2167 868,1963.5 868,2018.5 1220,2222" fill="#b6b5bb"/>
+<polygon points="2036,2194.75 1652,2416.75 1652,2471.75 2036,2249.75" fill="#a6a5ab"/><polygon points="1652,2416.75 1284,2204 1284,2259 1652,2471.75" fill="#b6b5bb"/>
+<polygon points="3716,2648 3332,2870 3332,2925 3716,2703" fill="#a6a5ab"/><polygon points="3332,2870 2500,2389 2500,2444 3332,2925" fill="#b6b5bb"/>
+<polygon points="2820,2648 2436,2870 2436,2925 2820,2703" fill="#a6a5ab"/><polygon points="2436,2870 2052,2648 2052,2703 2436,2925" fill="#b6b5bb"/>
+<polygon points="3268,2907 2884,3129 2884,3184 3268,2962" fill="#a6a5ab"/><polygon points="2884,3129 2500,2907 2500,2962 2884,3184" fill="#b6b5bb"/>
+<polygon points="3972,1427 3700,1584.25 3700,1639.25 3972,1482" fill="#a6a5ab"/><polygon points="3700,1584.25 3476,1454.75 3476,1509.75 3700,1639.25" fill="#b6b5bb"/>
+<polygon points="3524,1686 3188,1880.25 3188,1935.25 3524,1741" fill="#a6a5ab"/><polygon points="3188,1880.25 2964,1750.75 2964,1805.75 3188,1935.25" fill="#b6b5bb"/>
+<polygon points="2340,2370.5 1956,2592.5 1956,2647.5 2340,2425.5" fill="#a6a5ab"/><polygon points="1956,2592.5 1732,2463 1732,2518 1956,2647.5" fill="#b6b5bb"/>
+</g>
+<g id="MLOC-rooms" stroke="#f6f5f2" stroke-width="8" stroke-linejoin="round">
+<polygon id="lot201" points="2884,798 3668,1251.25 2884,1704.5 2100,1251.25" fill="#c5c4c8"><title>Fitness Studio</title></polygon>
+<polygon id="lot202" points="4068,1482.5 4452,1704.5 3668,2157.75 3284,1935.75" fill="#dedde1"><title>Yoga Studio</title></polygon>
+<polygon id="lot203" points="4516,1741.5 4900,1963.5 4116,2416.75 3732,2194.75" fill="#ceced2"><title>Cycle Studio</title></polygon>
+<polygon id="lot204" points="1700,1482.5 2484,1935.75 2100,2157.75 1316,1704.5" fill="#dedde1"><title>Multi-purpose Room</title></polygon>
+<polygon id="lot205" points="1252,1741.5 1604,1945 1220,2167 868,1963.5" fill="#d0cfd4"><title>Coaching Room</title></polygon>
+<polygon id="lot206" points="1668,1982 2036,2194.75 1652,2416.75 1284,2204" fill="#e3e2e6"><title>Meeting Room</title></polygon>
+<polygon id="lot207" points="2884,2167 3716,2648 3332,2870 2500,2389" fill="#bfbec4"><title>Spectator Gallery</title></polygon>
+<polygon id="lot208" points="2436,2426 2820,2648 2436,2870 2052,2648" fill="#d0cfd4"><title>Administration</title></polygon>
+<polygon id="lot209" points="2884,2685 3268,2907 2884,3129 2500,2907" fill="#e3e2e6"><title>Washrooms</title></polygon>
+<polygon id="lot210" points="3748,1297.5 3972,1427 3700,1584.25 3476,1454.75" fill="#aaa9af"><title>Elevator</title></polygon>
+<polygon id="lot211" points="3300,1556.5 3524,1686 3188,1880.25 2964,1750.75" fill="#aaa9af"><title>North Staircase</title></polygon>
+<polygon id="lot212" points="2116,2241 2340,2370.5 1956,2592.5 1732,2463" fill="#aaa9af"><title>South Staircase</title></polygon>
+</g>
+<g id="room-labels" pointer-events="none" text-anchor="middle" fill="#34323b" font-family="Arial, Helvetica, sans-serif">
+<text x="2884" y="1221.25" font-size="78" font-weight="700">201</text><text x="2884" y="1290" font-size="60">Fitness Studio</text>
+<text x="3868" y="1790.12" font-size="78" font-weight="700">202</text><text x="3868" y="1860" font-size="60">Yoga Studio</text>
+<text x="4316" y="2049.12" font-size="78" font-weight="700">203</text><text x="4316" y="2120" font-size="60">Cycle Studio</text>
+<text x="1900" y="1790.12" font-size="78" font-weight="700">204</text><text x="1900" y="1860" font-size="60">Multi-purpose</text>
+<text x="1236" y="1924.25" font-size="78" font-weight="700">205</text><text x="1236" y="1995" font-size="60">Coaching Room</text>
+<text x="1660" y="2169.38" font-size="78" font-weight="700">206</text><text x="1660" y="2240" font-size="60">Meeting Room</text>
+<text x="3108" y="2488.5" font-size="78" font-weight="700">207</text><text x="3108" y="2560" font-size="60">Spectator Gallery</text>
+<text x="2436" y="2618" font-size="78" font-weight="700">208</text><text x="2436" y="2688" font-size="60">Administration</text>
+<text x="2884" y="2877" font-size="78" font-weight="700">209</text><text x="2884" y="2947" font-size="60">Washrooms</text>
+<text x="3724" y="1410.88" font-size="60" font-weight="700">210</text><text x="3724" y="1465" font-size="40">Elevator</text>
+<text x="3244" y="1688.38" font-size="60" font-weight="700">211</text><text x="3244" y="1755" font-size="40">North Staircase</text>
+<text x="2036" y="2386.75" font-size="60" font-weight="700">212</text><text x="2036" y="2453" font-size="40">South Staircase</text>
+</g>
+</svg>
