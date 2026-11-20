@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <title>TPASC - Facility Map</title>
 
+    <!-- Mapplic CSS -->
+    <link rel="stylesheet" href="mapplic.css">
+
+    <!-- Mapplic JS (must be type="module") -->
+    <script type="module" src="mapplic.js"></script>
+
     <style>
         body {
             margin: 0;
@@ -31,9 +37,7 @@
 
     <!-- Mapplic Map Element -->
     <div id="map-container">
-        <mapplic-map data-json="https://mapplic.com/getMapData?id=7QwyV9ojZeFDRtaj9PBv">
-            <script type="text/javascript" id="mapplic-script" src="https://mapplic.com/mapplic.js"></script>
-        </mapplic-map>
+        <mapplic-map data-json="panam-data.json"></mapplic-map>
     </div>
 
 </body>
